@@ -7,6 +7,7 @@ The goal is to make it easy for anyone to gain access to hardware designs in the
 
 ### Seed Signer
 
+<img src="https://github.com/pcsubirachs/btc_hardware/img/orange_pill.jpeg " alt="drawing" align="middle" width="800"/>
 
 ### LNURL Point of Sale
 
