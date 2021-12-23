@@ -12,5 +12,5 @@ The goal is to make it easy for anyone to gain access to hardware designs in the
 ### LNURL Point of Sale
 
 
-### Seed Plates
+### Seed Plate
 
