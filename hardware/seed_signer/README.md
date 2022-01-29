@@ -14,7 +14,7 @@
 ## BOM Table
 | Description | Link        |
 | ----------- | ----------- |
-| Header      | Title       |
+| Purchase Pill Case      | [Link](https://hedronbtc.square.site/) |
 | Paragraph   | Text        |
 
 
