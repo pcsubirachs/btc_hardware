@@ -1,4 +1,6 @@
-# Seed Signer
+# Seed Signer Pill Case
+
+<img src="https://github.com/pcsubirachs/btc_hardware/blob/main/img/ss_pill.jpeg " alt="drawing" align="middle" width="800"/>
 
 ## Bill of Materials Table
 | Description | Link        | Price       |
@@ -16,9 +18,7 @@
 | | Total | $75.10 |
 
 
-#### Pill Case
-
-<img src="https://github.com/pcsubirachs/btc_hardware/blob/main/img/ss_pill.jpeg " alt="drawing" align="middle" width="800"/>
+#### Pill Case Parts
 
 <img src="https://github.com/pcsubirachs/btc_hardware/blob/main/img/ss_pill/ss_pill_top_housing.jpeg" alt="drawing" align="middle" width="800"/>
 
