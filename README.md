@@ -12,5 +12,3 @@ The goal is to make it easy for anyone to gain access to unique hardware designs
 ### Seed Plate
 
 <img src="https://github.com/pcsubirachs/btc_hardware/blob/main/img/seed_plate/seed_plate.jpeg" alt="drawing" align="middle" width="800"/>
-
-### LNURL Point of Sale
